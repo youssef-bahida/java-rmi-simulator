@@ -1,4 +1,4 @@
-# Java RMI Simulator v4
+# Java RMI Simulator 
 
 ## Lancement
 
