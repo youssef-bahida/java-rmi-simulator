@@ -2,6 +2,10 @@
 
 ## Lancement
 
+
+[ link to app ](https://yb-java-rmi-simulator.streamlit.app/)
+
+
 ```bash
 python3 -m venv venv
 source venv/bin/activate
